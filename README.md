@@ -5,6 +5,7 @@ Este projeto tem como objetivo comparar a estrutura de duas bases de dados para 
 
 ## Uso
 - Basta clonar o repositório e instalar as dependências (requirements.txt).
+- Com o código aberto no VS Code, informe na última linha os delimitadores dos arquivos caso seja necessário.
 - Ao executar o programa, no terminal, será solicitada a inclusão do caminho dos dois arquivos.
 - Atenção ao formato do caminho: sugiro utilizar o caminho completo, que contenha o nome do arquivo e sua extensão.
 
